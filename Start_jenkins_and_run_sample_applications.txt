@@ -1,4 +1,4 @@
-Certainly! I’ll guide you step by step through installing Jenkins on your Windows machine, creating a sample CI/CD pipeline for a Python project, and implementing Docker. Here's the plan:
+This file guides you on installtion of Jenkins on your Windows machine, creating a sample CI/CD pipeline for a Python project, and implementing Docker. 
 
 ### Step 1: Install Java on Windows
 1. **Download the JDK:**
